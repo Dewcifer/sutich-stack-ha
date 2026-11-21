@@ -1,0 +1,28 @@
+# Sutich Stack HA – Privacy Policy
+
+Last updated: November 20, 2026
+
+Sutich Stack HA is a private, single-user application. It is a personal
+Home Assistant installation that connects to the owner's own Google
+account (Google Calendar and Google Tasks) so the owner can see their
+own events and to-do items inside their own smart home.
+
+## What data the app accesses
+- Calendar events and Tasks items belonging to the account owner, read
+  through the Google Calendar and Google Tasks APIs.
+
+## How the data is used
+- It is displayed and used for automations inside the owner's private
+  Home Assistant instance, running on hardware the owner controls.
+- It is not sold, shared, or disclosed to any third party.
+- It is not used for advertising, analytics, or profiling.
+
+## Storage and retention
+- The app keeps only the OAuth tokens needed to stay connected, stored
+  locally on the owner's own Home Assistant server.
+- No Google user data is copied to any external service.
+- Access can be revoked at any time at
+  https://myaccount.google.com/permissions
+
+## Contact
+Dewey – dewey72@gmail.com
